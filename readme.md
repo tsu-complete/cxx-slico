@@ -41,3 +41,12 @@ Usage
 $ c++ -Ibower_components
 ```
 
+Documentation
+---
+
+```sh
+$ cd dox
+
+$ doxygen [lang].rc
+```
+
