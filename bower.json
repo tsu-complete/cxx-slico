@@ -1,0 +1,18 @@
+{
+  "name": "cxx-slico",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tsu-complete/cxx-slico",
+  "authors": [
+    "tsukumo"
+  ],
+  "description": "slico implementation in cpp",
+  "main": "index.hxx",
+  "license": "MIT",
+  "ignore": [
+    "**/*",
+    "!index.hxx"
+  ],
+  "dependencies": {
+    "cxx-image": "tsu-complete/cxx-image"
+  }
+}
