@@ -38,7 +38,7 @@ Usage
 ```
 
 ```sh
-$ c++ -Ibower_components
+$ c++ -std=c++0x -Ibower_components
 ```
 
 Documentation
